@@ -13,8 +13,8 @@
 
 |Problema | Dificuldade |Vìdeo |
 | -- | -- |-- |
-| []() |  Difícil|[clique aqui]() |
-| []() |  Difícil|[clique aqui]() |
+| [295.Find_Median_from_Data_Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) |  Difícil|[clique aqui]() |
+| [218.The_Skyline_Problem](https://leetcode.com/problems/the-skyline-problem/submissions/1677719993/) |  Difícil|[clique aqui]() |
 | - |  Difícil|[clique aqui]- |
 
 
@@ -23,11 +23,11 @@ Screenshots do resultado das submissões das questões no leetcode.
 
 Questão: 1
 
-<!-- 
-Questão: - 
+
+Questão: 218.The_Skyline_Problem
 <div align="center">
-    <img src="" alt="S" width="600">
-</div> -->
+    <img src="./218.The_Skyline_Problem/image.png" alt="S" width="600">
+</div> 
 
 
 Questão: 2
