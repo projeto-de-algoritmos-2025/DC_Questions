@@ -26,17 +26,17 @@ Questão: 1
 
 Questão: 218.The_Skyline_Problem
 <div align="center">
-    <img src="./218.The_Skyline_Problem/image.png" alt="S" width="600">
+    <img src="./218.The_Skyline_Problem/image.png" alt="The Skyline Problem Screenshot" width="600">
 </div> 
 
 
 Questão: 2
 
 
-<!-- Questão:2931. maximum spending after buying items
+Questão:295.Find_Median_from_Data_Stream
 <div align="center">
-    <img src="./maximum-spending-after-buying-items/maximumSpending.png" alt="Swim in Rising Water Screenshot" width="600">
-</div> -->
+    <img src="./295.Find_Median_from_Data_Stream/image.png" alt="Find Median from Data Stream Screenshot" width="600">
+</div>
 
 
 Questão: 3
