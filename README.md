@@ -1,7 +1,7 @@
 # DC_Questions
 
 **Número da Lista**: X<br>
-**Conteúdo da Disciplina**: <br>
+**Conteúdo da Disciplina**: Dividir e conquistar <br>
 
 ## Alunos
 |Matrícula | Aluno |
@@ -13,8 +13,8 @@
 
 |Problema | Dificuldade |Vìdeo |
 | -- | -- |-- |
-| [295.Find_Median_from_Data_Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) |  Difícil|[clique aqui]() |
-| [218.The_Skyline_Problem](https://leetcode.com/problems/the-skyline-problem/submissions/1677719993/) |  Difícil|[clique aqui]() |
+| [295.Find_Median_from_Data_Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) |  Difícil|[clique aqui](https://youtu.be/TQmE9CJhcN8) |
+| [218.The_Skyline_Problem](https://leetcode.com/problems/the-skyline-problem/submissions/1677719993/) |  Difícil|[clique aqui](https://youtu.be/l_3NDVsGqf4) |
 | - |  Difícil|[clique aqui]- |
 
 
